@@ -3,11 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>টাকা আয় করুন - বিজ্ঞাপন দেখুন</title>
-    <script src='//libtl.com/sdk.js' data-zone='9472189' data-sdk='show_9472189'></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>
-        :root {
+    <title>টাকা আয় করুন - বিজ্ঞাপন দেখুন</
+        :root {<script src='//libtl.com/sdk.js' data-zone='9973310' data-sdk='show_9973310'></script>
             --primary-color: #4a6bff;
             --secondary-color: #ff7d4a;
             --success-color: #28a745;
@@ -16,7 +13,7 @@
             --dark-color: #1a1a2e;
             --light-color: #f8f9fa;
             --card-bg: #16213e;
-            --text-color: #e6e6e6;
+            --text-color:
             --text-muted: #adb5bd;
         }
         
